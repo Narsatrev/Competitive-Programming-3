@@ -1,0 +1,14 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+	public static void main(String[] args){
+		Scanner s=new Scanner(System.in);
+		String a,b;
+		while(s.hasNextLine()){
+			String[] x=s.nextLine().split(" ");
+			a=x[0];
+			b=x[1];
+		}
+	}
+}

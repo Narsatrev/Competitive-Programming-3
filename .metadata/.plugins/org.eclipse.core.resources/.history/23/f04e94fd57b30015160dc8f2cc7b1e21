@@ -1,0 +1,17 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+	public static void main(String[] args){
+		Scanner s=new Scanner(System.in);
+		String a,b;
+		int c=0;
+		int f=0;
+		
+		while ((s = fileReader.hasNextLine()) != null) {
+		    String line = fileReader.nextLine(); 
+		    System.out.println(line);
+		}
+		
+	}
+}

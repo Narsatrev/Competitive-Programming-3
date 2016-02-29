@@ -1,0 +1,28 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+	public static void main(String[] args){
+		Scanner s=new Scanner(System.in);
+		int g=s.nextInt();
+		String x=s.next();
+		int m=0;
+		String y="";
+		String sub_y="";
+		
+		while(g!=0){
+			m=x.length()/g;
+			
+			for(int i=0;i<x.length();i++){
+				sub_y=x.substring(i,i+m-1);
+				for(int j=0;j<m;j++){
+					y+=sub_y;
+				}				
+			}
+			g=s.nextInt();
+			x=s.next();				
+		}
+		System.out.println(y);
+		
+	}
+}

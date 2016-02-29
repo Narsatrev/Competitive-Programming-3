@@ -1,0 +1,16 @@
+100
+POO 10 0
+ALGORITHMS 10 0
+DATA STRUCTURES 10 0
+CVP 10 30
+LINEAR ALGEBRA 10 30
+
+Javier Jimenez 10 CVP
+Arturo America 0 POO
+Carlos Calzada 10 ALGORITHMS
+Carlos Calzada 20 POO
+Carlos Calzada 10 DATA STRUCTURES
+Felipe Wong 0 ALGORITHMS
+Gonzalo Alvarez 50 CVP
+Maria Perez 30 CVP
+Alma Garcia 20 LINEAR ALGEBRA

@@ -1,0 +1,18 @@
+import java.util.*;
+import java.io.*;
+
+public class Main {
+	public static void main(String[] args){
+		Scanner s=new Scanner(System.in);
+		int g=s.nextInt();
+		String x=s.next();
+		
+		while(g!=0){
+			
+			
+			g=s.nextInt();
+			x=s.next();				
+		}
+		
+	}
+}
